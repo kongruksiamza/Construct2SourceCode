@@ -8,4 +8,4 @@ By KongRuksiam Official
 
 - [เจาะลึก Construct 2](https://www.youtube.com/watch?v=I2bw-UwcGhc&list=PLltVQYLz1BMCXFSo834StnquTDWm1s7OA)
 - [เกมวาดภาพ | Kid Coloring Book](https://www.youtube.com/watch?v=Q0XlDD_WSXI&list=PLltVQYLz1BMAuQCqcnHGvzqFZdxd27INS)
-- [เกมเก็บแครอท | Kid Game] (https://www.youtube.com/watch?v=yuga1_PtCGA&list=PLltVQYLz1BMCTPau7LY-dcLsZrRJIc317)
+- [เกมเก็บแครอท | Kid Game](https://www.youtube.com/watch?v=yuga1_PtCGA&list=PLltVQYLz1BMCTPau7LY-dcLsZrRJIc317)
