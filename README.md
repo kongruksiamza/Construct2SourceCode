@@ -13,7 +13,7 @@ By KongRuksiam Official
 - [สร้าง Platform Game พร้อมระบบ AI](https://www.youtube.com/watch?v=8F24c3_4ViI&list=PLltVQYLz1BMA8sY_7I5DhnIPO4Pa_FkyA)
 - [สร้างเกม 2 ผู้เล่นและ 4 ผู้เล่น](https://www.youtube.com/watch?v=hPkjaGTH5DI&list=PLltVQYLz1BMDTIV7B-MnHzEqOHD_8EIMn)
 - [เกมคณิตคิดเร็ว | Hunter Zombie](https://www.youtube.com/watch?v=cnp_Vu4lmCo&list=PLltVQYLz1BMDPp2lRcH7mfsvJBZCPuIHZ)
-- [เกมเก็บส้ม | Platform](https://www.youtube.com/watch?v=nHNxTOXX6pY&list=PLltVQYLz1BMBtm0qE5A1-RnA9OG_ZqzI3)
+- [เกมเก็บส้ม | Platform Game](https://www.youtube.com/watch?v=nHNxTOXX6pY&list=PLltVQYLz1BMBtm0qE5A1-RnA9OG_ZqzI3)
 - [เกมตะลุยอวกาศ | Topdown Shotter](https://www.youtube.com/watch?v=IcseLxKgAvc&list=PLltVQYLz1BMAIvFYjTUZ2e5vPJr3MqQag)
 - [ซานต้ายอดนักวิ่ง | Santa Runner](https://www.youtube.com/watch?v=zIkXcB7M8fA&list=PLltVQYLz1BMBVxd0yhrrRUWbptecYoFGZ)
 - [Photo Puzzle](https://www.youtube.com/watch?v=R41T_og_iOU&list=PLltVQYLz1BMB5QYM2ld_8H6pPuZ-u9_qG)
