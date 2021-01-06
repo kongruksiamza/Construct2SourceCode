@@ -2,7 +2,7 @@
 
 By KongRuksiam Official
 - [ติดตามผ่านช่อง Youtube](https://www.youtube.com/channel/UCQ1r_4x-P-fETLIU4pqf98w)
-- [ปูพื้นฐาน Construct 2 ](https://www.youtube.com/watch?v=I2bw-UwcGhc&list=PLltVQYLz1BMCXFSo834StnquTDWm1s7OA)
+- [กลุ่ม Construct 2](https://www.facebook.com/groups/Construct2TH)
 
 ## เลือกหัวข้อที่ต้องการเรียน
 
