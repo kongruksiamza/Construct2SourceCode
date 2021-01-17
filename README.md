@@ -22,3 +22,5 @@ By KongRuksiam Official
 - [เกมตัดไม้ | Timber Man](https://www.youtube.com/watch?v=mdjsOolaUkQ&list=PLltVQYLz1BMB6JEqoC0G9vVP5T1gikg-_)
 - [เกมเป่ายิงฉุบ](https://www.youtube.com/watch?v=UjuoRxcMZVw&list=PLltVQYLz1BMArNq7Jasgo-4bLvooQKfJp)
 - [Platform | Environment](https://www.youtube.com/watch?v=p-L4lbaGt9k&list=PLltVQYLz1BMA9H9zjqVyiCPLEBR5lyLsO)
+- [Zombie Survival 2 ผู้เล่น](https://www.youtube.com/watch?v=BAGI6IKEuJQ&list=PLltVQYLz1BMDPWVz_23aY8xfKX9gTsm2w)
+- [เกมวางระเบิด (Bomberman)](https://www.youtube.com/watch?v=xFlTYEbeRnQ&list=PLltVQYLz1BMAoD_Q8ViD84Fem43x6ijg7)
