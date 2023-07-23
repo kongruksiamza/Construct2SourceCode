@@ -1,7 +1,4 @@
 # โค้ดประกอบเนื้อหาสร้างเกม 2 มิติด้วย Construct 2 
-
-By KongRuksiam Official
-- [ติดตามผ่านช่อง Youtube](https://www.youtube.com/channel/UCQ1r_4x-P-fETLIU4pqf98w)
 - [กลุ่ม Construct 2](https://www.facebook.com/groups/Construct2TH)
 
 ## เลือกหัวข้อที่ต้องการเรียน
@@ -24,3 +21,12 @@ By KongRuksiam Official
 - [Platform | Environment](https://www.youtube.com/watch?v=p-L4lbaGt9k&list=PLltVQYLz1BMA9H9zjqVyiCPLEBR5lyLsO)
 - [Zombie Survival 2 ผู้เล่น](https://www.youtube.com/watch?v=BAGI6IKEuJQ&list=PLltVQYLz1BMDPWVz_23aY8xfKX9gTsm2w)
 - [เกมวางระเบิด (Bomberman)](https://www.youtube.com/watch?v=xFlTYEbeRnQ&list=PLltVQYLz1BMAoD_Q8ViD84Fem43x6ijg7)
+
+## ☕ ช่องทางการสนับสนุน
+- [🎓 คอร์สเรียนบน Udemy](https://github.com/kongruksiamza/udemy-course)
+- [🛒 ซื้อของผ่าน Shopee](https://shope.ee/3plB9kVnPd)
+
+## 💓 ช่อง Youtube ในเครือของเรา
+![logo](https://github.com/kongruksiamza/programmer-class-room/blob/main/logo.png?raw=true)
+- [KongRuksiam Official](https://www.youtube.com/@KongRuksiamOfficial)
+- [KongRuksiam (เทคนิคการเขียนโปรแกรม)](https://www.youtube.com/@KongRuksiamTutorial)
