@@ -1,4 +1,4 @@
-![image](https://github.com/kongruksiamza/Construct2CapxFree/blob/master/cover.png?raw=true)
+![image](https://github.com/kongruksiamza/Construct2SourceCode/blob/main/cover.png?raw=true)
 # โค้ดประกอบเนื้อหาสร้างเกม 2 มิติด้วย Construct 2 
 - [กลุ่ม Construct 2](https://www.facebook.com/groups/Construct2TH)
 
