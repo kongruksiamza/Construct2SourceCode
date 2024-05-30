@@ -5,6 +5,7 @@
 ## เลือกหัวข้อที่ต้องการเรียน
 
 - [เจาะลึก Construct 2](https://www.youtube.com/playlist?list=PLltVQYLz1BMCXFSo834StnquTDWm1s7OA)
+- [Animal Crush (Match3)](https://www.youtube.com/playlist?list=PLltVQYLz1BMB8RkXkeIz7QBzTLfA2B74q)
 - [เกมวาดภาพ | Kid Coloring Book](https://www.youtube.com/playlist?list=PLltVQYLz1BMAuQCqcnHGvzqFZdxd27INS)
 - [เกมเก็บแครอท | Kid Game](https://www.youtube.com/playlist?list=PLltVQYLz1BMCTPau7LY-dcLsZrRJIc317)
 - [Red Runer | วิ่งเก็บเหรียญ](https://www.youtube.com/playlist?list=PLltVQYLz1BMBfkBCmT_dP1-2Umu14FQoH)
